@@ -1,7 +1,7 @@
 
 import { Box, Typography, styled } from '@mui/material';
-import Youtube from '../Assets/Images/youtube.png';
-import InstaTele from '../Assets/Images/InstaTele.jpeg';
+import Youtube from '../Assets/Images/2.png';
+import InstaTele from '../Assets/Images/1.jpg';
 
 const Header = styled(Box)`
     margin: 50px;
