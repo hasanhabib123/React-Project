@@ -8,7 +8,7 @@ import 'codemirror/mode/css/css';
 
 import { Controlled as ControlledEditor } from 'react-codemirror2';
 
-import { Box, Typography, Button } from '@mui/material';
+import { Box } from '@mui/material';
 import { CloseFullscreen } from '@mui/icons-material';
 import { styled } from '@mui/material/styles';
 

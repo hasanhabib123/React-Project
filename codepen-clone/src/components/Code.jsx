@@ -5,7 +5,7 @@ import Editor from './Editor';
 
 import { Box } from '@mui/material';
 import { styled } from '@mui/material/styles'
-import { Code as CodeIcon } from '@mui/icons-material';
+// import { Code as CodeIcon } from '@mui/icons-material';
 
 import { DataContext } from '../context/DataProvider';
 
